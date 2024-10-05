@@ -18,7 +18,7 @@
 
 ### Project Overview
 
-This data analysis helps to identify trends, opportunities, and challenges, and provide actionable insights to improve sales performance.
+This data analysis helps to identify trends, opportunities, and challenges, and provide actionable insights to improve sales performance
 
 ### Data Sources
 ---
